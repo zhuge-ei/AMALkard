@@ -1,4 +1,4 @@
-# AMALkard
+# Amalkard
 in Farsi, the word "amalkard"("عملکرد") means performance and this project's job is to being able to help your team with your UX and project/team managing.
 ### where can we use it?
 i'll try to get a server and a appropriate hostname for it in the future, but one of AMALkard's features is going to be easy setup on your own server so you don't have to worry about your data.
